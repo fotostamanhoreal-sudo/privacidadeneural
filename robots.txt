@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fotostamanhoreal-sudo.github.io/privacidadeneural/sitemap.xml
